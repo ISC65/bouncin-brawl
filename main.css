@@ -1,11 +1,19 @@
-#github_image {
+#head_bar {
+  position: sticky;
+  background-color:lightgrey;
+  height: 60px;
+}
+
+#github {
   position: absolute;
   right: 1%;
+  bottom: 2%;
   width: 3%;
 }
 
-#youtube_image {
+#youtube {
   position: absolute;
   right: 5%;
+  bottom: 2%;
   width: 3%;
 }
