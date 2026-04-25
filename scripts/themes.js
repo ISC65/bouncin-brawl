@@ -1,3 +1,10 @@
+// ALL OF THIS IS SEPERATE FROM THE MAIN.JS (handles all of the important logic)
+
+/*
+    Yes i know this is crappy code but deal with it
+    IT MAY CAHNGE LATER (hopefully :D) 
+*/
+
 window.onload = function() {
     const github_image = document.getElementById("github");
     const youtube_image = document.getElementById("youtube");
